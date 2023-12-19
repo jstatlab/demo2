@@ -1,0 +1,21 @@
+---
+title: "demo2"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{demo2}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+A função a seguir retorna o pior ano de um time do Brasileirão
+```{r setup}
+library(demo2)
+encontrar_pior_ano_time("Santos")
+```
