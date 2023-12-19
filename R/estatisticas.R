@@ -12,6 +12,20 @@ calcular_estatisticas <- function(data, continentes, anos = 2000) {
     )
 }
 
+
+#' Calcular estatisticas de continentes
+#'
+#' O objetivo desa funcao e calcular estatisticas dos continentes
+#'
+#' @param continentes Nome do continente (chr)
+#' @param anos Ano base para calcular as estatisticas (int)
+#'
+#' @return Uma tabela com as estatisticas de um continente
+#' @examples
+#' calcular_estatisticas_gapminder("Europa")
+#' calcular_estatisticas_gapminder("Ásia")
+#'
+#' @export
 calcular_estatisticas_gapminder <- function(continentes, anos = 2000) {
   dados::dados_gapminder |>
     calcular_estatisticas(continentes, anos)
