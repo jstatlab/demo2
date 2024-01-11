@@ -4,6 +4,24 @@
 # demo2
 
 <!-- badges: start -->
+
+![GitHub commit
+activity](https://img.shields.io/github/commit-activity/m/jstatlab/demo2)
+![GitHub language
+count](https://img.shields.io/github/languages/count/jstatlab/demo2)
+![GitHub top
+language](https://img.shields.io/github/languages/top/jstatlab/demo2)
+![Codecov](https://img.shields.io/codecov/c/github/jstatlab/demo2)
+![GitHub License](https://img.shields.io/github/license/jstatlab/demo2)
+![GitHub code size in
+bytes](https://img.shields.io/github/languages/code-size/jstatlab/demo2)
+![GitHub repo
+size](https://img.shields.io/github/repo-size/jstatlab/demo2) ![GitHub
+watchers](https://img.shields.io/github/watchers/jstatlab/demo2)
+![GitHub forks](https://img.shields.io/github/forks/jstatlab/demo2)
+![GitHub R package version (subdirectory of
+monorepo)](https://img.shields.io/github/r-package/v/jstatlab/demo2)
+
 <!-- badges: end -->
 
 The objetivo do pacote demo2 é demonstrar como criar um pacote em R.
