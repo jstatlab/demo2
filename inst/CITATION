@@ -1,4 +1,5 @@
-bibentry("JJ2024"
+bibentry(
+  key      = "JJ2024",
   bibtype  = "Article",
   title    = "Demo2 package",
   author   = "JJ",
