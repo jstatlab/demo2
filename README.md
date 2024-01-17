@@ -27,7 +27,7 @@ coverage](https://codecov.io/gh/jstatlab/demo2/branch/master/graph/badge.svg)](h
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![](https://img.shields.io/badge/doi-10.1016/j.rser.2023.113990-#FAB70C.svg)](https://doi.org/10.1016/j.rser.2023.113990)
-[![](https://img.shields.io/badge/ORCiD-0000-0001-7414-1154-#A6CE39.svg)](https://orcid.org/0000-0001-7414-1154)
+[![](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-#A6CE39.svg)](https://orcid.org/0000-0001-7414-1154)
 <!-- badges: end -->
 
 The objetivo do pacote demo2 é demonstrar como criar um pacote em R!
