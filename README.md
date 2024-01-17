@@ -26,8 +26,8 @@ monorepo)](https://img.shields.io/github/r-package/v/jstatlab/demo2)
 coverage](https://codecov.io/gh/jstatlab/demo2/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jstatlab/demo2?branch=master)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![](https://img.shields.io/badge/doi-10.1000/abcd.2010.1234-firebrick.svg)](https://doi.org/10.1000/abcd.2010.1234)
-[![](https://img.shields.io/badge/ORCiD-0000--0000--0000--0000-dodgerblue.svg)](https://orcid.org/0000-0000-0000-0000)
+[![](https://img.shields.io/badge/doi-10.1000/abcd.2010.1234-#FAB70C.svg)](https://doi.org/10.1000/abcd.2010.1234)
+[![](https://img.shields.io/badge/ORCiD-0000--0000--0000--0000-#A6CE39.svg)](https://orcid.org/0000-0000-0000-0000)
 <!-- badges: end -->
 
 The objetivo do pacote demo2 é demonstrar como criar um pacote em R.
