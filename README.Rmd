@@ -29,6 +29,7 @@ knitr::opts_chunk$set(
 ![GitHub R package version (subdirectory of monorepo)](https://img.shields.io/github/r-package/v/jstatlab/demo2)
 [![R-CMD-check](https://github.com/jstatlab/demo2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jstatlab/demo2/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/jstatlab/demo2/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jstatlab/demo2?branch=master)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 The objetivo do pacote demo2 é demonstrar como criar um pacote em R.
