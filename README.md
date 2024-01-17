@@ -22,6 +22,9 @@ watchers](https://img.shields.io/github/watchers/jstatlab/demo2)
 ![GitHub R package version (subdirectory of
 monorepo)](https://img.shields.io/github/r-package/v/jstatlab/demo2)
 
+[![R-CMD-check](https://github.com/jstatlab/demo2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jstatlab/demo2/actions/workflows/R-CMD-check.yaml)
+
+[![codecov](https://codecov.io/gh/jstatlab/demo2/graph/badge.svg?token=SQRCY05836)](https://codecov.io/gh/jstatlab/demo2)
 <!-- badges: end -->
 
 The objetivo do pacote demo2 é demonstrar como criar um pacote em R.
