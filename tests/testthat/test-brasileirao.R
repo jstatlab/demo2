@@ -1,7 +1,3 @@
-test_that("multiplication works", {
-  expect_equal(2 * 2, 4)
-})
-
 test_that("encontrar_pior_ano_time works with Santos", {
 
   expect_equal(
