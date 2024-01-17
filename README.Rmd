@@ -34,7 +34,7 @@ knitr::opts_chunk$set(
 [![](https://img.shields.io/badge/ORCiD-0000--0000--0000--0000-#A6CE39.svg)](https://orcid.org/0000-0000-0000-0000)
 <!-- badges: end -->
 
-The objetivo do pacote demo2 é demonstrar como criar um pacote em R.
+The objetivo do pacote demo2 é demonstrar como criar um pacote em R!
 
 ## Instalação
 
