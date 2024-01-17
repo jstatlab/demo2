@@ -16,12 +16,12 @@ test_that("encontrar_pior_ano_time works with Santos", {
   )
 
   expect_type(
-    encontrar_pior_ano_time("Santos")$quem_ganhou ,
+    encontrar_pior_ano_time("Santos")$quem_ganhou,
     "character"
   )
 
   expect_type(
-    encontrar_pior_ano_time("Santos")$n_vitorias ,
+    encontrar_pior_ano_time("Santos")$n_vitorias,
     "integer"
   )
 
