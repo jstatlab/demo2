@@ -30,7 +30,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-#A6CE39.svg)](https://orcid.org/0000-0001-7414-1154)
 <!-- badges: end -->
 
-The objetivo do pacote demo2 é demonstrar como criar um pacote em R!
+The objetivo do pacote demo2 é demonstrar como criar um pacote em R!!!
 
 ## Instalação
 
